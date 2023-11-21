@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "811200330829",
+    "project_id": "social-buz",
+    "storage_bucket": "social-buz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811200330829:android:b605327ccd9a2379737004",
+        "android_client_info": {
+          "package_name": "com.example.social_buzz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811200330829-55ntmk7ev1hfbfjokcte0i3c5eqlvk5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdDrYufzwQPwMU2fS9UnYG0UTbZ9WNCtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811200330829-55ntmk7ev1hfbfjokcte0i3c5eqlvk5s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
